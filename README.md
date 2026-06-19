@@ -35,3 +35,4 @@
 **Learning**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Golang](https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white)
